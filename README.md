@@ -1,4 +1,6 @@
-# Apache container to serve static sites
+# Apache Static Site Server
+
+Apache container to serve static sites
 
 <img src="https://i.pinimg.com/originals/4e/06/c2/4e06c2957def0eeed5be4b0a4bbe871b.png" width="15%">
 
