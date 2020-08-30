@@ -1,6 +1,6 @@
 # Apache container to serve static sites
 
-<img src="https://janw.me/content/uploads/2016/09/nginx-1024x1024.png" width="20%">
+<img src="https://i.pinimg.com/originals/4e/06/c2/4e06c2957def0eeed5be4b0a4bbe871b.png" width="15%">
 
 ## HOW TO USE 
 
